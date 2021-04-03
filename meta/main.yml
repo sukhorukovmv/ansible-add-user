@@ -1,6 +1,7 @@
 ---
 
 galaxy_info:
+  role_name: "add-user"
   author: "Sukhorukov Maksim"
   description: "Create and configure a user for SSH key based logins and passwordless sudo."
   company:
